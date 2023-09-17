@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Arduino kicad library")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/Arduino kicad library")(options "")(descr ""))
+  (lib (name "Assorted parts")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/Assorted parts")(options "")(descr ""))
+  (lib (name "datasheets")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/datasheets")(options "")(descr ""))
+  (lib (name "digikey-kicad-library-1")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/digikey-kicad-library-1.2")(options "")(descr ""))
+  (lib (name "Shogi")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/Shogi.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "C:/Users/MSI Gamer/Nextcloud4/Geodar/Electronics/Libraries and ressources/SSD1306.pretty")(options "")(descr ""))
+)
