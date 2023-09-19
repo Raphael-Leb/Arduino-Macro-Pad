@@ -26,3 +26,10 @@ I had to make custom keycaps because the keys were too close together to fit sta
 I first modeled a casing with the pcb tilted upward to fit the angle of my keyboard, but then decided on making it flat instead. The files are still there if that's what you prefer, but they are incomplete.
 Initialy tried to make a press fit casing, but spacing proved to be quite a pain to nail down considering how 3d printed plastic warps. I used 6 m3 screws to secure everything.
 ![image](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/5a00618b-a451-4685-b815-9650acbdede7)
+
+### Parts
+| Part   | Link | Amount |
+| -------- | ------- | ------- |
+| Cherry switch  | https://www.digikey.ca/en/products/detail/cherry-americas-llc/MX1A-E1NW/20180    | 8 |
+| Rotary encoder | https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4215K-S0024/4499662     | 1 |
+| Diodes    | https://www.digikey.ca/en/products/detail/smc-diode-solutions/1N4148/6022448    | 8 |
