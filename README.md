@@ -33,3 +33,5 @@ Initialy tried to make a press fit casing, but spacing proved to be quite a pain
 | Cherry switch  | https://www.digikey.ca/en/products/detail/cherry-americas-llc/MX1A-E1NW/20180    | 8 |
 | Rotary encoder | https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4215K-S0024/4499662     | 1 |
 | Diodes    | https://www.digikey.ca/en/products/detail/smc-diode-solutions/1N4148/6022448    | 8 |
+| rp2040    | https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010428/14672129   | 1 |
+| screem    | https://www.amazon.ca/GeeekPi-SSD1306-Display-Arduino-Raspberry/dp/B0833PF7ML/ref=sr_1_2?crid=A12OUYH5RILN&keywords=ssd1306&qid=1695136173&sprefix=ssd130%2Caps%2C130&sr=8-2   | 1 |
