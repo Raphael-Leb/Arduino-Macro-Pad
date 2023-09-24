@@ -7,6 +7,10 @@
 - An oled screen displaying the shortcuts set
 - A clickable rotary encoder knob
 
+  ![20230922_190033](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/0a234013-a7b2-4195-a0a8-cbfd1a02daa2)
+
+![20230922_190054](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/3b6c9ba4-99dc-485f-8493-ff87f12477cb)
+
 ## Design
 ### PCB
 The pcb was made using kicad, the design files are in Mainpad/PCBfiles.
