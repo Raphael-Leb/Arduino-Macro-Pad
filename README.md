@@ -7,6 +7,10 @@
 - An oled screen displaying the shortcuts set
 - A clickable rotary encoder knob
 
+  ![20230922_190033](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/0a234013-a7b2-4195-a0a8-cbfd1a02daa2)
+
+![20230922_190054](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/3b6c9ba4-99dc-485f-8493-ff87f12477cb)
+
 ## Design
 ### PCB
 The pcb was made using kicad, the design files are in Mainpad/PCBfiles.
@@ -26,3 +30,12 @@ I had to make custom keycaps because the keys were too close together to fit sta
 I first modeled a casing with the pcb tilted upward to fit the angle of my keyboard, but then decided on making it flat instead. The files are still there if that's what you prefer, but they are incomplete.
 Initialy tried to make a press fit casing, but spacing proved to be quite a pain to nail down considering how 3d printed plastic warps. I used 6 m3 screws to secure everything.
 ![image](https://github.com/Raphael-Leb/Arduino-Macro-Pad/assets/62116334/5a00618b-a451-4685-b815-9650acbdede7)
+
+### Parts
+| Part   | Link | Amount |
+| -------- | ------- | ------- |
+| Cherry switch  | https://www.digikey.ca/en/products/detail/cherry-americas-llc/MX1A-E1NW/20180    | 8 |
+| Rotary encoder | https://www.digikey.ca/en/products/detail/bourns-inc/PEC11R-4215K-S0024/4499662     | 1 |
+| Diodes    | https://www.digikey.ca/en/products/detail/smc-diode-solutions/1N4148/6022448    | 8 |
+| rp2040    | https://www.digikey.ca/en/products/detail/seeed-technology-co-ltd/102010428/14672129   | 1 |
+| screen    | https://www.amazon.ca/GeeekPi-SSD1306-Display-Arduino-Raspberry/dp/B0833PF7ML/ref=sr_1_2?crid=A12OUYH5RILN&keywords=ssd1306&qid=1695136173&sprefix=ssd130%2Caps%2C130&sr=8-2   | 1 |
